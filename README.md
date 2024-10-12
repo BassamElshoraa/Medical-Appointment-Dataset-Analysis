@@ -81,7 +81,7 @@ ___
 
 ## Built with:		
 - JupyterLab	
-- Python3	   	
+- Python	   	
 - Pandas		
 - Numpy			
 - Matplotlib	
